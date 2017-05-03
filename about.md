@@ -4,37 +4,35 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am a last year student of Bachelor in Sciences in Physics and Economist from 
+the Universidad de los Andes, Colombia. I am interested in scientific computing and
+modeling in diversas areas like: astrophysics, High Energy Physics and phenomelogical 
+analysis of data, Computational Macroeconomics and Global Method Solutions. The last
+year I have been working at the Banco de la Republica, the Central Bank of Colombia, 
+developing Dynamics Stochastic General Equilibrium models for optimal monetary policy 
+analysis using High Performance Computing tools like Distributed and Shared Computing (MPI) and
+numerical methods and libraries (LAPACK, BLAS).</p>
 
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
-tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
-quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
-consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
-cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
-proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+<p>I am CO-Founder and COO of a anlytics and data science start up based on Bogota, Colombia. Computable </p>
+
+<p>Some Projects in wich I am envolved.</p>
+<ul class="skill-list">
+	<li>Bachelor thesis: Non conventional machine algorithms in Particle indentificacion in 
+	high energy Physics.</li>
+	<li>Mendoza Boz model paper replication including High Performance computing tools.</li>
+</ul>
 
 <h2>Skills</h2>
 
 <ul class="skill-list">
-	<li>HTML - Jade - Haml - Erb</li>
-	<li>Responsive (Mobile First)</li>
-	<li>CSS (Stylus, Sass, Less)</li>
-	<li>Css Frameworks (Bootstrap, Foundation)</li>
-	<li>Javascript (Design Patterns, Testes)</li>
-	<li>NodeJS</li>
-	<li>AngularJS - ReactJS</li>
-	<li>Grunt - Gulp - Yeoman</li>
+	<li>C - C++ </li>
+	<li>Fortran </li>
+	<li>MPI - OpenMP - BLAS - LAPACK - TASMANIAN</li>
+	<li>Python - Shell</li>
+	<li>Pandas - Sklearn</li>
+	<li>Machine Learning: KNN, Kmeans, SVM, LASSO, RIGDE, Ramdon Forrest, Decision trees</li>
 	<li>Git</li>
-	<li>PHP</li>
-	<li>Python</li>
-	<li>MySQL - MongoDB</li>
-	<li>Scrum and Kanban</li>
-	<li>TDD e Continuous Integration</li>
+	<li>PDE modelling</li>
 </ul>
 
 <h2>Projects</h2>
