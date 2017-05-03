@@ -13,7 +13,7 @@ developing Dynamics Stochastic General Equilibrium models for optimal monetary p
 analysis using High Performance Computing tools like Distributed and Shared Computing (MPI) and
 numerical methods and libraries (LAPACK, BLAS).</p>
 
-<p>I am CO-Founder and COO of a anlytics and data science start up based on Bogota, Colombia. Computable </p>
+<p>I am CO-Founder and COO of an Analytics and Data Science start up based on Bogota, Colombia. Computable </p>
 
 <p>Some Projects in wich I am envolved.</p>
 <ul class="skill-list">
