@@ -19,6 +19,6 @@ layout: page
 
 <h2>Projects</h2>
 <ul class="skill-list">
-	<li>Deep Learning algorithms in event classification in High Energy Physics.</li>
+	<li>Deep Learning algorithms (GAN's) in event classification in High Energy Physics.</li>
 	<li>Mendoza and Boz model paper replication using High Performance computing tools.</li>
 </ul>
