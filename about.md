@@ -20,5 +20,5 @@ layout: page
 <h2>Projects</h2>
 <ul class="skill-list">
 	<li>Deep Learning algorithms (GAN's) in event classification in High Energy Physics.</li>
-	<li>Mendoza and Boz model paper replication using High Performance computing tools.</li>
+	<li>Financial innovation, the discovery of risk, and the U.S. credit crisis (Mendoza and Boz) model replication using High Performance computing tools.</li>
 </ul>
