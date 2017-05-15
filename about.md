@@ -13,7 +13,7 @@ layout: page
 	<li>C, C++, Fortran, Python, R, Shell, Git, SQL.</li>
 	<li>Matlab/Octave, Stata.</li>
 	<li>MPI, OpenMP, Pandas, Sklearn, BLAS, LAPACK.</li>
-	<li>Machine Learning: KNN, Kmeans, SVM, LASSO and RIGDE Regression, Random Forest, Decision trees, Neural Networks.</li>
+	<li>Machine Learning: KNN, Kmeans, SVM, LASSO and RIGDE Regression, Random Forest, Decision trees, Neural Networks, data Shuffling</li>
 	<li>Partial Differential Equation modelling.</li>
 </ul>
 
