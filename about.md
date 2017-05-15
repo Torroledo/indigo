@@ -21,5 +21,5 @@ layout: page
 <ul class="skill-list">
 	<li>Deep Learning algorithms (GAN's) in event classification in High Energy Physics.</li>
 	<li>Financial innovation, the discovery of risk, and the U.S. credit crisis (Mendoza and Boz) model replication using High Performance computing tools.</li>
-	<li>Data analysis for exploration of determinants of planetary formation.<a href="https://github.com/Torroledo/planetaryFormation"> See more.</a></li>
+	<li>Machine Learning approach for the study of Planetary Formation Determinants.<a href="https://github.com/Torroledo/planetaryFormation"> See more.</a></li>
 </ul>
