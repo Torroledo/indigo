@@ -22,6 +22,6 @@ layout: page
 	<li>Reinforcement Learning applications in economic models.</li>
 	<li>Deep Learning algorithms (GAN's) in event classification in High Energy Physics.</li>
 	<li>Financial innovation, the discovery of risk, and the U.S. credit crisis (Mendoza and Boz) model replication using High Performance computing tools.<a href="https://github.com/Torroledo/mendozaBozModel"> See more.</a></li>
-	<li>Machine Learning approach for the study of Planetary Formation Determinants.<a href="https://github.com/Torroledo/planetaryFormation"> See more.</a></li>
+	<!--<li>Machine Learning approach for the study of Planetary Formation Determinants.<a href="https://github.com/Torroledo/planetaryFormation"> See more.</a></li>-->
 	<li>Macroeconomics toolbox (Fortran).<a href="https://github.com/Torroledo/macroeconomicsTools"> See more.</a></li> 
 </ul>
