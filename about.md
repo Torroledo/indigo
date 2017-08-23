@@ -11,7 +11,7 @@ layout: page
 <h2> Skills</h2>
 <ul class="skill-list">
 	<li>C, C++, Fortran, Java, R, Shell, Git, SQL.</li>
-	<li>Python: Pandas, Sklearn, Matplotlib, Seaborn, Plotly, NumPy, Jupyter.
+	<li>Python: Pandas, Sklearn, Matplotlib, Seaborn, Plotly, NumPy, Jupyter.</li>
 	<li>Machine Learning: KNN, Kmeans, SVM, LASSO and RIGDE Regression, Random Forest, Decision trees, Neural Networks.</li>
 	<li>Matlab/Octave, Stata.</li>
 	<li>MPI, OpenMP, Pandas, Sklearn, BLAS, LAPACK.</li>
