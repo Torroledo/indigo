@@ -14,7 +14,7 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-resume-url: https://github.com/Torroledo/CV/raw/master/CV_ivanTorroledo.pdf
+resume-url: #https://github.com/Torroledo/CV/raw/master/CV_ivanTorroledo.pdf
 
 url: http://torroledo.github.io
 # your url: http://USERNAME.github.io
