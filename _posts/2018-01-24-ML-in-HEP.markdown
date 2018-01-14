@@ -1,16 +1,16 @@
 ---
-title: "Markdown Common Elements"
+title: "Machine Learning Algorithms in High Energy Physics"
 layout: post
-date: 2016-02-24 22:44
+date: 2018-01-24 22:44
 image: /assets/images/markdown.jpg
 headerImage: false
 tag:
-- markdown
-- elements
+- Machine Learning
+- Physics
 star: true
 category: blog
-author: johndoe
-description: Markdown summary with different options
+author: ivanTorroledo
+description: Background to Signal discrimination in proton-proton colisions at LHC 
 ---
 
 ## Summary:
