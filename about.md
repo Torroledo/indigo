@@ -12,14 +12,14 @@ layout: page
 Currently I am working as Research Data Scientist at <a href='http://www.easysol.net' target="_blank"> Easy Solutions </a>. My research are focused in the development and implementation of Machine and Deep Learning models (mainly RNN's and LSTM) using NLP tecniques for predictive analysis, anamoly detection and fraud prevention.
 </p>
 <p>
-In the past, also I have been involved in the development and implementation of forecasting models for several porporses like Monetary Policy analysis or High Energy Physics research. This allows me to be familiar with several analytical tools like: DSGE models, Bayesian Statistics, Time Series Econometrics.\\
-Other areas of interest are Computational Astrophysics, Computational Macroeconomics, Algorithmic Trading and High Performance Computing. 
+In the past, also I have been involved in the development and implementation of forecasting models for several porporses like Monetary Policy analysis and High Energy Physics research. This allows me to be familiar with several analytical tools like: DSGE models, Bayesian Statistics, Time Series Econometrics.
+</p>
+<p>
+Other areas of interest are Computational Astrophysics, Computational Macroeconomics, Algorithmic Trading, High Performance Computing and entrepreneurship.
 </p>
 </div>
 
-<p> Passionate about techonology and entrepreneurship.</p>
-
-<h2> Skills</h2>
+<h2> <b>Skills</b></h2>
 <ul class="skill-list">
 	<li>C, C++, Fortran, Java, R, Shell, Git, ROOT, SQL.</li>
 	<li>Python: Pandas, Sklearn, Matplotlib, Seaborn, Plotly, NumPy, Jupyter.</li>
