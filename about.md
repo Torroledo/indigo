@@ -9,7 +9,7 @@ layout: page
 	I am Ivan Torroledo-Peña, I'm a undergraduate student of Physics with emphasis in High Energy Physics. Also, I hold a Bachelor Degree in Economics. 
 </p>
 <p>
-Currently I am working as Research Data Scientist at <a href='http://www.easysol.net' target="_blank"> Easy Solutions</a>. My research are focused in the development and implementation of Machine and Deep Learning models (mainly RNN's and LSTM) using NLP tecniques for predictive analysis, anamoly detection and fraud prevention.
+Currently I am working as Research Data Scientist at <a href='http://www.cyxtera.com' target="_blank"> Cyxtera</a>. My research are focused in the development and implementation of Machine and Deep Learning models (mainly RNN's and LSTM) using NLP tecniques for predictive analysis, anamoly detection and fraud prevention.
 </p>
 <p>
 In the past, also I have been involved in the development and implementation of forecasting models for several porporses like Monetary Policy analysis and High Energy Physics research. This allows me to be familiar with several analytical tools like: DSGE models, Bayesian Statistics, Time Series Econometrics.
